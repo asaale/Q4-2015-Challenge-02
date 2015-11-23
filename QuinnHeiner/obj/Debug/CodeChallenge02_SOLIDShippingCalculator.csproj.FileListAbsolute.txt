@@ -1,0 +1,6 @@
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_SOLIDShippingCalculator\bin\Debug\CodeChallenge02_SOLIDShippingCalculator.exe.config
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_SOLIDShippingCalculator\bin\Debug\CodeChallenge02_SOLIDShippingCalculator.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_SOLIDShippingCalculator\bin\Debug\CodeChallenge02_SOLIDShippingCalculator.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_SOLIDShippingCalculator\obj\Debug\CodeChallenge02_SOLIDShippingCalculator.csprojResolveAssemblyReference.cache
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_SOLIDShippingCalculator\obj\Debug\CodeChallenge02_SOLIDShippingCalculator.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_SOLIDShippingCalculator\obj\Debug\CodeChallenge02_SOLIDShippingCalculator.pdb
