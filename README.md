@@ -7,9 +7,9 @@ With Black Friday around the corner, we wanted to create a shipping calculator t
 ```
 public double CalculateShippingCost(Order order) {
 	switch (order.ShippingMethod) {
-		case “UPS”: return CalculateUpsShipping();
-		case “FedEx”: return CalculateFedExShipping();
-		case “USPS”: return CalculateUspsShipping();
+		case "UPS": return CalculateUpsShipping();
+		case "FedEx": return CalculateFedExShipping();
+		case "USPS": return CalculateUspsShipping();
 	}
 }
 ```
