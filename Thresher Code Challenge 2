@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+<script>
+    var ShippingMethods = {
+        UPS: function (order) { return order.Cost * 0.10.toFixed(2); },
+        FedEx: function (order) { return order.Cost * 0.12.toFixed(2); },
+        USPS: function (order) { return (order.Cost * 0.14).toFixed(2); }
+    };
+
+    function CalculateShippingCost(order) {
+        if (ShippingMethods.hasOwnProperty(order.ShippingMethod)) {
+            var method = ShippingMethods[order.ShippingMethod];
+            return method(order);
+        } else {
+            return "Invalid shipping method requested";
+        }
+    }
+
+    function GetCost(method) {
+        var order = {};
+        order.ShippingMethod = method;
+        order.Cost = 123;
+        var result = CalculateShippingCost(order);
+        document.write(method + ": " + result + "</br>");
+    }
+
+    document.write("<h3>Original Methods:</h3>");
+
+    GetCost("UPS");
+    GetCost("FedEx");
+    GetCost("USPS");
+    GetCost("DHL");
+
+    ShippingMethods["DHL"] = function (order) { return order.Cost * 0.16.toFixed(2); };
+
+    document.write("<h3>DHL method dynamically added:</h3>");
+
+    GetCost("UPS");
+    GetCost("FedEx");
+    GetCost("USPS");
+    GetCost("DHL");
+</script>
+</body>
+</html>
