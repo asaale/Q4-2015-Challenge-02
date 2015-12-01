@@ -32,7 +32,7 @@ public class SteveFransonApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        String[] methods = { "FedEx", "Ups", "USPS", "DHS", null };
+        String[] methods = { "FedEx", "Ups", "USPS", "DHL", null };
 
         for (String method : methods) {
             Order order = new Order(method);
