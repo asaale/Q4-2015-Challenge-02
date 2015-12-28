@@ -18,3 +18,9 @@ Simply changing the switch statements to some form of an if/else is also not all
 
 ##Bonus Entry
 As expected, we need to add another shipping method, DHL.  Add this to your list of shipping methods without modifying the core CalculateShippingCost() method.  As before, feel free to stub out dummy implementation details.
+
+##Submission Instructions
+
+GitHub repo: https://github.com/STGCodeChallenges/Q4-2015-Challenge-02
+
+Google Form (to be filled out upon completion of challenge): https://docs.google.com/a/stgconsulting.com/forms/d/1tWiVzb6cq9qftcGuKT4APOIW5Zh83iaJLmHdEXkZcV4/viewform?usp=send_form
