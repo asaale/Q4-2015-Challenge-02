@@ -1,0 +1,6 @@
+C:\STG\CodeChallenges\Q4-2015-Challenge-02\AlexSaale\challenge02_SolidShippingContainer\challenge02_SolidShippingContainer\bin\Debug\challenge02_SolidShippingContainer.exe.config
+C:\STG\CodeChallenges\Q4-2015-Challenge-02\AlexSaale\challenge02_SolidShippingContainer\challenge02_SolidShippingContainer\bin\Debug\challenge02_SolidShippingContainer.exe
+C:\STG\CodeChallenges\Q4-2015-Challenge-02\AlexSaale\challenge02_SolidShippingContainer\challenge02_SolidShippingContainer\bin\Debug\challenge02_SolidShippingContainer.pdb
+C:\STG\CodeChallenges\Q4-2015-Challenge-02\AlexSaale\challenge02_SolidShippingContainer\challenge02_SolidShippingContainer\obj\Debug\challenge02_SolidShippingContainer.csprojResolveAssemblyReference.cache
+C:\STG\CodeChallenges\Q4-2015-Challenge-02\AlexSaale\challenge02_SolidShippingContainer\challenge02_SolidShippingContainer\obj\Debug\challenge02_SolidShippingContainer.exe
+C:\STG\CodeChallenges\Q4-2015-Challenge-02\AlexSaale\challenge02_SolidShippingContainer\challenge02_SolidShippingContainer\obj\Debug\challenge02_SolidShippingContainer.pdb
